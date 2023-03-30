@@ -1,0 +1,6 @@
+name: DelayedDamage
+version: '${project.version}'
+main: io.github.adelemphii.delayeddamage.DelayedDamage
+api-version: 1.16
+authors: [Adelemphii]
+website: https://adelemphii.github.io/
